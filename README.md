@@ -77,7 +77,7 @@ AQI Project/
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/RahulSingh-DS/Smart-AQI-ML-Project]
+git clone https://github.com/RahulSingh-DS/Smart-AQI-ML-Project
 cd Smart-AQI-ML-Project
 ```
 
@@ -92,7 +92,15 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-###4. Live Link : 
+[![Live App](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://smart-aqi-ml-project-rahulsingh.streamlit.app/)
+
+🔗 **Live Application:**
+👉 YOUR_STREAMLIT_LINK
+
+
+🔗 **Live Application:**
+👉 YOUR_STREAMLIT_LINK
+
 ---
 
 ## 📊 Dataset
