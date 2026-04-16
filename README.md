@@ -77,8 +77,8 @@ AQI Project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/RahulSingh-DS/aqi-ml-dashboard.git
-cd aqi-ml-dashboard
+git clone [https://github.com/RahulSingh-DS/Smart-AQI-ML-Project]
+cd Smart-AQI-ML-Project
 ```
 
 ### 2. Install dependencies
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
+###4. Live Link : 
 ---
 
 ## 📊 Dataset
