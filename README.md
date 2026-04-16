@@ -1,5 +1,12 @@
 # 🌫️ Smart AQI Intelligence Dashboard
 
+[![Live App](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://smart-aqi-ml-project-rahulsingh.streamlit.app/)
+
+🔗 **Live Application:**
+👉 https://smart-aqi-ml-project-rahulsingh.streamlit.app/
+
+---
+
 A **production-ready Machine Learning web application** that monitors, analyzes, and predicts Air Quality Index (AQI) using real-world pollution data.
 
 Designed with a focus on **data-driven insights, user experience, and scalability**, this project demonstrates end-to-end ML system development — from data preprocessing to deployment-ready UI.
@@ -67,6 +74,8 @@ AQI Project/
 │── app.py
 │── requirements.txt
 │── README.md
+│── data/
+│   └── global_air_pollution.csv
 │── aqi_model.pkl (generated)
 ```
 
@@ -77,7 +86,7 @@ AQI Project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/RahulSingh-DS/Smart-AQI-ML-Project
+git clone https://github.com/RahulSingh-DS/Smart-AQI-ML-Project.git
 cd Smart-AQI-ML-Project
 ```
 
@@ -92,14 +101,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-[![Live App](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://smart-aqi-ml-project-rahulsingh.streamlit.app/)
-
-🔗 **Live Application:**
-👉 YOUR_STREAMLIT_LINK
-
-
-🔗 **Live Application:**
-👉 YOUR_STREAMLIT_LINK
 
 ---
 
